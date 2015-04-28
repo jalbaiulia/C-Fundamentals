@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace StructExample
-{
+{// commS
     public struct Complex
     {
         public double Real, Imaginar, Modul;
